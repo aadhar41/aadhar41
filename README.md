@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhar41" alt="aadhar41" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aadhar_gaur" target="blank"><img src="https://img.shields.io/twitter/follow/@aadhar_gaur?logo=twitter&style=for-the-badge" alt="@aadhar_gaur" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@aadhar_gaur" target="blank"><img src="https://img.shields.io/twitter/follow/@aadhar_gaur?logo=twitter&style=for-the-badge" alt="@aadhar_gaur" /></a> </p>
 
 - 🔭 I’m currently working on [Society Services](https://github.com/aadhar41/society-accounting)
 
 - 🌱 I’m currently learning **MERN, Laravel, Yii**
 
 - 👯 I’m looking to collaborate on **Laravel, MERN Stack**
+
+- 🤝 I’m looking for help with **MERN Stack, Laravel Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadhar41](https://github.com/aadhar41)
 
@@ -22,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aadhar_gaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aadhar_gaur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aadhar41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadhar41" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
