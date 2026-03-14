@@ -1,65 +1,80 @@
-<h1 align="center">Hi 👋, I'm Aadhar gaur</h1>
-<h3 align="center">A passionate Senior Software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Aadhar Gaur</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhar41&label=Profile%20views&color=0e75b6&style=flat" alt="aadhar41" /> </p>
+<h3 align="center">
+Senior PHP / Backend Engineer • 10+ Years Experience
+</h3>
 
-
-
-<p align="left"> <a href="https://twitter.com/aadhar_gaur" target="blank"><img src="https://img.shields.io/twitter/follow/aadhar_gaur?logo=twitter&style=for-the-badge" alt="aadhar_gaur" /></a> </p>
-
-- 🔭 I’m currently working on [Society Services](https://github.com/aadhar41/society-accounting)
-
-- 🌱 I’m currently learning **MERN, Laravel, Yii**
-
-- 👯 I’m looking to collaborate on **Laravel, MERN Stack**
-
-- 🤝 I’m looking for help with **MERN Stack, Laravel Stack**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aadhar41](https://github.com/aadhar41)
-
-- 💬 Ask me about **PHP, Laravel**
-
-- 📫 How to reach me **aadhar41@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/aadhar41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aadhar41" height="30" width="40" /></a>
-<a href="https://codepen.io/aadhar41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aadhar41" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5832750/aadhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5832750/aadhar" height="30" width="40" /></a>
-<a href="https://fb.com/aadhar.gaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aadhar.gaur" height="30" width="40" /></a>
-<a href="https://instagram.com/gauraadhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauraadhar" height="30" width="40" /></a>
-<a href="https://twitter.com/aadhar_gaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadhar_gaur" height="30" width="40" /></a>
-<a href="https://medium.com/@aadhar41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aadhar41" height="30" width="40" /></a>
-<a href="https://youtube.com/@aadhargaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aadhargaur" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aadhar41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aadhar41" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Architecting+REST+APIs;Full-Stack+Modern+Platforms;Expert+in+PHP+%26+Laravel" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
-
-
----
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=aadhar41&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=aadhar41&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=aadhar41&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=aadhar41&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=aadhar41&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=aadhar41&layout=compact&theme=default" height="200px">
-  </picture>
-
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhar41&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aadhar41&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/aadhar41?label=Followers&style=flat" />
+<a href="https://twitter.com/aadhar_gaur" target="blank"><img src="https://img.shields.io/twitter/follow/aadhar_gaur?logo=twitter&style=flat" alt="aadhar_gaur" /></a>
+</p>
 
 ---
 
+### 👨‍💻 About Me
+
+- 🔭 **Currently Building:** [Society Accounting Platform](https://github.com/aadhar41/society-accounting)
+- 🌱 **Currently Learning:** MERN Stack & modern React architecture
+- 👯 **Open to Collaboration:** Laravel & Node.js projects
+- 💬 **Expertise:** PHP, Laravel, Yii, REST APIs, Backend Architecture
+- 📫 **Contact:** aadhar41@gmail.com
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | PHP (Laravel, Yii, CodeIgniter), Node.js, Express |
+| **Frontend** | React, JavaScript, TailwindCSS, jQuery, Bootstrap |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
+| **DevOps & Tools** | Docker, Linux, Git, Postman, Webpack |
+
+---
+
+### 🚀 Featured Projects
+
+#### [Society Accounting Platform](https://github.com/aadhar41/society-accounting)
+A comprehensive property management and accounting system built to handle complex financial workflows.
+
+#### [React Agency Portfolio](https://github.com/aadhar41/React-Agency-Portfolio)
+A modern, responsive agency website built with React to showcase high-end UI/UX.
+
+---
+
+### 📊 Statistics & Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aadhar41&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aadhar41&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aadhar41&show_icons=true&count_private=true&theme=default" height="180px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhar41&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhar41&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhar41&layout=compact&langs_count=8&theme=default" height="180px">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhar41&theme=default" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhar41&theme=github" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+</p>
